@@ -1,0 +1,4 @@
+# Build modules
+/node_modules/
+# Composer packages
+/vendor/
